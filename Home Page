@@ -1,0 +1,231 @@
+├── index.html
+├── styles.css
+└── README.md
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pillar & Beam</title>
+  <meta name="description" content="Pillar & Beam is an independent research and strategy practice focused on political analysis, messaging, and due diligence." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>Pillar & Beam</h1>
+      <p class="tagline">Strategy. Research. Built to Last.</p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>What We Do</h2>
+      <p>
+        Pillar & Beam is an independent research and strategy practice supporting
+        political and civic efforts through rigorous analysis, message development,
+        and long-term strategic planning.
+      </p>
+      <p>
+        Our work emphasizes durability, clarity, and discipline — building structures
+        that hold under pressure.
+      </p>
+    </section>
+
+    <section>
+      <h2>Capabilities</h2>
+      <ul>
+        <li>Political and opposition research</li>
+        <li>Message development and narrative testing</li>
+        <li>Policy and legal research</li>
+        <li>Strategic planning and scenario analysis</li>
+        <li>Due diligence and risk assessment</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Case Work</h2>
+      <p>
+        Recent work includes research and strategy support for U.S. congressional
+        campaigns and issue-based advocacy efforts in Texas.
+      </p>
+      <p class="note">
+        Detailed case studies are available upon request.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>
+        Inquiries may be directed to:
+      </p>
+      <p>
+        <a href="mailto:contact@pillarandbeam.org">contact@pillarandbeam.org</a>
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© Pillar & Beam</p>
+    </div>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pillar & Beam</title>
+  <meta name="description" content="Pillar & Beam is an independent research and strategy practice focused on political analysis, messaging, and due diligence." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>Pillar & Beam</h1>
+      <p class="tagline">Strategy. Research. Built to Last.</p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>What We Do</h2>
+      <p>
+        Pillar & Beam is an independent research and strategy practice supporting
+        political and civic efforts through rigorous analysis, message development,
+        and long-term strategic planning.
+      </p>
+      <p>
+        Our work emphasizes durability, clarity, and discipline — building structures
+        that hold under pressure.
+      </p>
+    </section>
+
+    <section>
+      <h2>Capabilities</h2>
+      <ul>
+        <li>Political and opposition research</li>
+        <li>Message development and narrative testing</li>
+        <li>Policy and legal research</li>
+        <li>Strategic planning and scenario analysis</li>
+        <li>Due diligence and risk assessment</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Case Work</h2>
+      <p>
+        Recent work includes research and strategy support for U.S. congressional
+        campaigns and issue-based advocacy efforts in Texas.
+      </p>
+      <p class="note">
+        Detailed case studies are available upon request.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>
+        Inquiries may be directed to:
+      </p>
+      <p>
+        <a href="mailto:contact@pillarandbeam.org">contact@pillarandbeam.org</a>
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© Pillar & Beam</p>
+    </div>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pillar & Beam</title>
+  <meta name="description" content="Pillar & Beam is an independent research and strategy practice focused on political analysis, messaging, and due diligence." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>Pillar & Beam</h1>
+      <p class="tagline">Strategy. Research. Built to Last.</p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>What We Do</h2>
+      <p>
+        Pillar & Beam is an independent research and strategy practice supporting
+        political and civic efforts through rigorous analysis, message development,
+        and long-term strategic planning.
+      </p>
+      <p>
+        Our work emphasizes durability, clarity, and discipline — building structures
+        that hold under pressure.
+      </p>
+    </section>
+
+    <section>
+      <h2>Capabilities</h2>
+      <ul>
+        <li>Political and opposition research</li>
+        <li>Message development and narrative testing</li>
+        <li>Policy and legal research</li>
+        <li>Strategic planning and scenario analysis</li>
+        <li>Due diligence and risk assessment</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Case Work</h2>
+      <p>
+        Recent work includes research and strategy support for U.S. congressional
+        campaigns and issue-based advocacy efforts in Texas.
+      </p>
+      <p class="note">
+        Detailed case studies are available upon request.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>
+        Inquiries may be directed to:
+      </p>
+      <p>
+        <a href="mailto:contact@pillarandbeam.org">contact@pillarandbeam.org</a>
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© Pillar & Beam</p>
+    </div>
+  </footer>
+
+</body>
+</html>
